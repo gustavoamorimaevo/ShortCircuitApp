@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Short_Circuit</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_atividade2">Atividade2</string>
+    <string name="title_activity_fase_grid">FaseGrid</string>
+    <string name="title_activity_start_program">StartProgram</string>
+    <string name="title_activity_lista_de_fases">ListaDeFases</string>
+</resources>
